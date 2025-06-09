@@ -1,0 +1,4 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data.
+These systems improve their performance over time without being explicitly programmed.
+Neural networks, which are inspired by the human brain, are commonly used in machine learning applications.
+The more data a model receives, the better its ability to generalize and make accurate predictions.

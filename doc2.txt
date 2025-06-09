@@ -1,0 +1,4 @@
+Machine learning is a part of artificial intelligence concerned with the development of algorithms that can learn from data.
+Such systems evolve with time by learning patterns in datasets without direct instructions.
+In many machine learning tasks, neural networks are applied due to their brain-like structure.
+Models become more effective as they are trained with more data, improving their predictions.
