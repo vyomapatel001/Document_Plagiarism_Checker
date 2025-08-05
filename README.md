@@ -60,3 +60,14 @@ Fill them with the text content you want to compare.
 ```bash
 streamlit run streamlit_app.py
 ```
+## 🚀 Live App
+
+You can try the AI Plagiarism Checker instantly in your browser — no installation needed:
+
+🔗 **[Launch Streamlit App](https://vyomapatel001-document-plagiarism-checker-streamlit-app-vvd4a3.streamlit.app/)**
+
+Features:
+- Upload or edit two documents
+- Detect exact matches and semantic similarities
+- View differences with color-coded highlights
+
